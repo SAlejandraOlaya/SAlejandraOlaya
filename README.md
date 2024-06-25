@@ -30,7 +30,6 @@
 <br>
 
 ## Tecnologías principales 🧑‍💻 :
-
 <br>
 
  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -45,7 +44,6 @@
   <img src="https://img.icons8.com/ios/48/000000/express-js.png" alt="Express"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="pgAdmin"/>
-
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal"/>
 </div>
@@ -63,5 +61,11 @@
 
 <br>
 
+## :trophy: Git profile Trophies
 
-Last edited on: 30/06/2022
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SAlejandraOlaya&layout=compact&theme=algolia" alt="SAlejandraOlaya" />
+  </a>
+</p>
+
