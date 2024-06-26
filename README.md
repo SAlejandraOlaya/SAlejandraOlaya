@@ -29,24 +29,27 @@
 
 <br>
 
-## Tecnologías principales 🧑‍💻 :
+## Tecnologías principales 👩🏻‍💻 :
 <br>
 
- <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/office/48/000000/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
   <img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/ios/48/000000/express-js.png" alt="Express"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="pgAdmin"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/console.png" alt="Terminal"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
 </div>
+
 
 <br>
 
