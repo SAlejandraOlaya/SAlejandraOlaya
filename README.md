@@ -3,19 +3,19 @@
 
 ## Sobre Mi:
 
-💻 Desarrolladora Full Stack especializada en FrontEnd
+💻 Desarrolladora Full Stack con especialización en Frontend
 
-📚 Médica y nueva profesional en tecnología (2024)
+📚 Médica convertida en profesional tecnológica (2024)
 
-📝 Apasionada por la Ingeniería y el Diseño de Software
+📝 Apasionada por la ingeniería de software y el desarrollo de soluciones eficientes
 
-🛠️ Estudiante de Desarrollo Web Full Stack
+🛠️ Profesional en desarrollo web Full Stack, con enfoque en optimización y escalabilidad
 
-🌱 Enfocada en diseños eficientes para sistemas escalables
+🌱 Dedicada a crear arquitecturas sólidas y sostenibles para sistemas complejos
 
 🌟 Principales tecnologías: Next.js, React, Tailwind, TypeScript, HTML, CSS, Node.js, Express
 
-😃 Entusiasmada por aprender y colaborar en proyectos importantes
+😃 Comprometida con la innovación y la colaboración en proyectos de gran impacto
 
 🏡 Ubicada en Medellín, Colombia
 
