@@ -57,9 +57,6 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAlejandraOlaya&theme=algolia)](https://git.io/streak-stats)
-[![SAlejandraOlaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAlejandraOlaya&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAlejandraOlaya&theme=algolia&layout=compact)
 
 
 <br>
